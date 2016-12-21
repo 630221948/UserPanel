@@ -1,0 +1,40 @@
+{
+	"groups": [
+		{
+			"keys": "bg_jpg,egret_icon_png,description_json,exitbutton_png,Ghost_png,Soap_png",
+			"name": "preload"
+		}
+	],
+	"resources": [
+		{
+			"name": "bg_jpg",
+			"type": "image",
+			"url": "assets/bg.jpg"
+		},
+		{
+			"name": "egret_icon_png",
+			"type": "image",
+			"url": "assets/egret_icon.png"
+		},
+		{
+			"name": "description_json",
+			"type": "json",
+			"url": "config/description.json"
+		},
+		{
+			"name": "exitbutton_png",
+			"type": "image",
+			"url": "assets/exitbutton.png"
+		},
+		{
+			"name": "Ghost_png",
+			"type": "image",
+			"url": "assets/Ghost.png"
+		},
+		{
+			"name": "Soap_png",
+			"type": "image",
+			"url": "assets/Soap.png"
+		}
+	]
+}
